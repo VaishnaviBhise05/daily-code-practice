@@ -28,3 +28,15 @@ python day01/solution.py
 ```
 <img width="1918" height="970" alt="Screenshot 2026-07-13 104912" src="https://github.com/user-attachments/assets/e3e34768-3128-43e7-bbbd-5094a60da70e" />
 
+## Day 2: Reverse a String
+
+Write a function reverse_string(s) that returns the input string reversed.
+
+Examples:
+reverse_string("hello")  -> "olleh"
+reverse_string("Python") -> "nohtyP"
+
+Run: python day02/solution.py
+<img width="1918" height="1001" alt="Screenshot 2026-07-14 193520" src="https://github.com/user-attachments/assets/3e9a1bdb-0900-4326-b8d4-08ea9c8d6799" />
+
+
