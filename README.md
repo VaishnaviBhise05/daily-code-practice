@@ -39,4 +39,14 @@ reverse_string("Python") -> "nohtyP"
 Run: python day02/solution.py
 <img width="1918" height="1001" alt="Screenshot 2026-07-14 193520" src="https://github.com/user-attachments/assets/3e9a1bdb-0900-4326-b8d4-08ea9c8d6799" />
 
+## Day 3: Find the Largest Number in a List
+
+Write a function find_largest(numbers) that returns the largest number in a list.
+
+Examples:
+find_largest([3, 7, 2, 9, 4]) -> 9
+find_largest([-5, -1, -10])   -> -1
+
+Run: python day03/solution.py
+<img width="1918" height="975" alt="Screenshot 2026-07-15 182601" src="https://github.com/user-attachments/assets/a1f5431a-ff1a-4163-9ab2-494efb7ceeed" />
 
