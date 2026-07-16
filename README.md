@@ -50,3 +50,15 @@ find_largest([-5, -1, -10])   -> -1
 Run: python day03/solution.py
 <img width="1918" height="975" alt="Screenshot 2026-07-15 182601" src="https://github.com/user-attachments/assets/a1f5431a-ff1a-4163-9ab2-494efb7ceeed" />
 
+## Day 4: Factorial of a Number
+
+Write a function factorial(n) that returns the factorial of n using recursion.
+
+Examples:
+factorial(5) -> 120
+factorial(0) -> 1
+
+Run: python day04/solution.py
+<img width="1917" height="990" alt="Screenshot 2026-07-16 094547" src="https://github.com/user-attachments/assets/5e39b827-95e6-4404-8469-7ff4623e499f" />
+
+
