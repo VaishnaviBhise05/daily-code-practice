@@ -61,4 +61,17 @@ factorial(0) -> 1
 Run: python day04/solution.py
 <img width="1917" height="990" alt="Screenshot 2026-07-16 094547" src="https://github.com/user-attachments/assets/5e39b827-95e6-4404-8469-7ff4623e499f" />
 
+## Day 5: Count Word Frequency
+
+Write a function word_count(text) that returns a dictionary showing how
+many times each word appears in a string.
+
+Examples:
+word_count("the cat sat on the mat")
+-> {"the": 2, "cat": 1, "sat": 1, "on": 1, "mat": 1}
+
+Run: python day05/solution.py
+<img width="1918" height="991" alt="Screenshot 2026-07-17 153647" src="https://github.com/user-attachments/assets/d0b6112e-373d-47f8-8549-f51ccd8e8747" />
+
+
 
