@@ -73,5 +73,19 @@ word_count("the cat sat on the mat")
 Run: python day05/solution.py
 <img width="1918" height="991" alt="Screenshot 2026-07-17 153647" src="https://github.com/user-attachments/assets/d0b6112e-373d-47f8-8549-f51ccd8e8747" />
 
+## Day 6: Check if a String is a Palindrome
+
+Write a function is_palindrome(s) that returns True if the string reads
+the same forwards and backwards, False otherwise. Ignore case.
+
+Examples:
+is_palindrome("madam")   -> True
+is_palindrome("hello")   -> False
+is_palindrome("Racecar") -> True
+
+Run: python day06/solution.py
+<img width="1917" height="1000" alt="Screenshot 2026-07-18 125320" src="https://github.com/user-attachments/assets/af9a4645-634f-420e-8543-efd6e27332f2" />
+
+
 
 
