@@ -86,6 +86,19 @@ is_palindrome("Racecar") -> True
 Run: python day06/solution.py
 <img width="1917" height="1000" alt="Screenshot 2026-07-18 125320" src="https://github.com/user-attachments/assets/af9a4645-634f-420e-8543-efd6e27332f2" />
 
+## Day 7: Remove Duplicates from a List
+
+Write a function remove_duplicates(items) that returns a new list with
+duplicates removed, preserving the original order.
+
+Examples:
+remove_duplicates([1, 2, 2, 3, 1, 4])   -> [1, 2, 3, 4]
+remove_duplicates(["a", "b", "a", "c"]) -> ["a", "b", "c"]
+
+Run: python day07/solution.py
+<img width="1918" height="977" alt="Screenshot 2026-07-19 182224" src="https://github.com/user-attachments/assets/040084ab-8f44-4a65-accc-86098a004a4a" />
+
+
 
 
 
