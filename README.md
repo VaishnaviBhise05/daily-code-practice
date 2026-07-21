@@ -98,6 +98,18 @@ remove_duplicates(["a", "b", "a", "c"]) -> ["a", "b", "c"]
 Run: python day07/solution.py
 <img width="1918" height="977" alt="Screenshot 2026-07-19 182224" src="https://github.com/user-attachments/assets/040084ab-8f44-4a65-accc-86098a004a4a" />
 
+## Day 8: GCD using Recursion
+
+Write a function gcd(a, b) that returns the greatest common divisor of
+two numbers, using recursion.
+
+Examples:
+gcd(48, 18)  -> 6
+gcd(101, 10) -> 1
+
+Run: python day08/solution.py
+<img width="1918" height="987" alt="Screenshot 2026-07-20 212156" src="https://github.com/user-attachments/assets/95cfb890-1f24-467d-ad0f-14273f2c59b4" />
+
 
 
 
